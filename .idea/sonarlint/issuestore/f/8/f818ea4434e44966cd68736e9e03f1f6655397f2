@@ -1,0 +1,28 @@
+
+n	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÂÍ°8İç…ÛÊ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß×ë¤ûÿÿÿÿ
+L
+java:S3740î"/Provide the parametrized type for this generic.(¨»Èa8İç…ÛÊ.
+o
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(­Û©™8İç…ÛÊ.
+s
+java:S1104"XMake documentList a static final constant or non-public and provide accessors if needed.(ÃÍ§Øøÿÿÿÿ
+L
+java:S3740î"/Provide the parametrized type for this generic.(¨»Èa8İç…ÛÊ.
+p
+java:S11926"SUse already-defined constant 'MY_PREFS_NAME' instead of duplicating its value here.(ÁÀŒÁ8İç…ÛÊ.
+}
+java:S1104 "`Make documentListFiltered a static final constant or non-public and provide accessors if needed.(…’Œ8İç…ÛÊ.
+p
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ªÂÍ°8İç…ÛÊ.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ò½ñ¦8òË€É.
+U
+java:S3878x"8Remove this array creation and simply pass the elements.(³™Îˆ8İç…ÛÊ.
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»„á­8İç…ÛÊ.
+I
+java:S1481ì"+Remove this unused "unused" local variable.(‹†±8İç…ÛÊ.
+u	java:S131l"YComplete cases by adding the missing enum constants or add a default case to this switch.(¿ğ—ª8İç…ÛÊ.
+E
+java:S1604ˆ"(Make this anonymous inner class a lambda(•ƒ™@8İç…ÛÊ.
+M
+java:S3740ì"/Provide the parametrized type for this generic.(‹†±8İç…ÛÊ.

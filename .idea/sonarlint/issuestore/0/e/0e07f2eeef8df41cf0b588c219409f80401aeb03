@@ -1,0 +1,362 @@
+
+>	java:S131¸""Add a default case to this switch.(ìúÇV8ŞâàáÊ.
+O
+java:S1444K"-Make this "public static counter" field final(Æ—ûÿÿÿÿÿ8ŞâàáÊ.
+n	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+n	java:S117¿	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+:
+java:S2386N"Make this member "protected".(Ñ§ª8ŞâàáÊ.
+‚
+java:S1192‡"_Define a constant instead of duplicating this literal "No default Application found!" 12 times.(È÷‰óûÿÿÿÿ8ŞâàáÊ.
+n	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´òúÈ8ŞâàáÊ.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+s	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+s	java:S117—	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+F
+java:S1604³
+"(Make this anonymous inner class a lambda(¿Ô¹ş8ŞâàáÊ.
+Ÿ
+java:S1186å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ò¼¡Ô8ŞâàáÊ.
+¤
+java:S1186è"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–†Óüÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604Ê	"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+>
+java:S3878ó	"Remove this array creation.(Æ¶µ úÿÿÿÿ8ŞâàáÊ.
+s	java:S117º	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604Ó"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+8
+java:S3878¼"Remove this array creation.(Şü j8ŞâàáÊ.
+K
+java:S1604ç"(Make this anonymous inner class a lambda(üÆÀ²ÿÿÿÿÿ8ŞâàáÊ.
+n	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+¤
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÑòÌÑûÿÿÿÿ8ŞâàáÊ.
+F
+java:S1604‰"(Make this anonymous inner class a lambda(æŞ©8ŞâàáÊ.
+F	java:S108¾")Either remove or fill this block of code.(Á×»ı8ŞâàáÊ.
+s	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+~
+java:S1104a"\Make mFilePathAdapter a static final constant or non-public and provide accessors if needed.(¹¢¢ÿÿÿÿÿ8ŞâàáÊ.
+_
+java:S3878¦"ADisambiguate this call by either casting as "Class" or "Class[]".(„˜ş®8ŞâàáÊ.
+K
+java:S1604é"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+Ÿ
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹îãè8ŞâàáÊ.
+U
+java:S1444M"3Make this "public static longclickonce" field final(ü¿šúÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604š"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+n	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+{
+java:S1104M"YMake longclickonce a static final constant or non-public and provide accessors if needed.(ü¿šúÿÿÿÿ8ŞâàáÊ.
+Y
+java:S2696í"6Make the enclosing method "static" or remove this set.(§ãì”ıÿÿÿÿ8ŞâàáÊ.
+]
+java:S1161è":Add the "@Override" annotation above this method signature(úùóüÿÿÿÿ8ŞâàáÊ.
+Y
+java:S2696‚"6Make the enclosing method "static" or remove this set.(…€…Şûÿÿÿÿ8ŞâàáÊ.
+
+java:S1319^"{The type of the "mCurFileInfoList" object should be an interface such as "List" rather than the implementation "ArrayList".(Ì‹Ãƒúÿÿÿÿ8ŞâàáÊ.
+9
+java:S3878¦"Remove this array creation.(„˜ş®8ŞâàáÊ.
+T
+java:S1905Ë"1Remove this unnecessary cast to "RequestBuilder".(ßç‡ûşÿÿÿÿ8ŞâàáÊ.
+F
+java:S1604ø"(Make this anonymous inner class a lambda(¿Ô¹ş8ŞâàáÊ.
+W
+java:S1118|":Add a private constructor to hide the implicit public one.(º©«á8ŞâàáÊ.
+K
+java:S1604„"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604–"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604Ñ"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+O
+java:S2692®"10 is a valid index, but is ignored by this check.(Åæˆú8ŞâàáÊ.
+s	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+i
+java:S1301š"KReplace this "switch" statement by "if" statements to increase readability.(¿ğ—ª8ŞâàáÊ.
+K
+java:S1604Ù"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+8
+java:S3878‹"Remove this array creation.(Şü j8ŞâàáÊ.
+K
+java:S1604¦"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+m	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıß×[8ŞâàáÊ.
+K
+java:S1604è"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë±¨şÿÿÿÿ8ŞâàáÊ.
+n	java:S117ì	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+K
+java:S1604’"(Make this anonymous inner class a lambda(œ¹¤şÿÿÿÿ8ŞâàáÊ.
+F	java:S108è")Either remove or fill this block of code.(ãµ¡³8ŞâàáÊ.
+o	java:S116R"TRename this field "Extracted" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÂèn8ŞâàáÊ.
+
+java:S1130~"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ìƒ®ûÿÿÿÿÿ8ŞâàáÊ.
+E	java:S108¸")Either remove or fill this block of code.(ìúÇV8ŞâàáÊ.
+I
+java:S1905ï"&Remove this unnecessary cast to "int".(ùà¬•úÿÿÿÿ8ŞâàáÊ.
+v	java:S131ß"YComplete cases by adding the missing enum constants or add a default case to this switch.(¿ğ—ª8ŞâàáÊ.
+|	java:S116Q"[Rename this field "Edited_File_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÁÇ‚úÿÿÿÿ8ŞâàáÊ.
+s
+java:S1192£"PDefine a constant instead of duplicating this literal "adv_preferance" 16 times.(®¸ªÔøÿÿÿÿ8ŞâàáÊ.
+s	java:S117”
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+T
+java:S2696‹"6Make the enclosing method "static" or remove this set.(Öè±µ8ŞâàáÊ.
+q
+java:S1104_"TMake mCurPath a static final constant or non-public and provide accessors if needed.(õ‹ˆ¿8ŞâàáÊ.
+u	java:S116Y"YRename this field "extention_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö³¬8·ƒ®ßÊ.
+V
+java:S1161l":Add the "@Override" annotation above this method signature(Á…‘8ŞâàáÊ.
+K
+java:S1604ª"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+>
+java:S3878é"Remove this array creation.(Æ¶µ úÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604¦"(Make this anonymous inner class a lambda(É—âÇûÿÿÿÿ8ŞâàáÊ.
+9
+java:S3878 
+"Remove this array creation.(ÿ¸¼8ŞâàáÊ.
+_
+java:S3878ÿ"ADisambiguate this call by either casting as "Class" or "Class[]".(„˜ş®8ŞâàáÊ.
+v
+java:S3776å"SRefactor this method to reduce its Cognitive Complexity from 409 to the 15 allowed.(Ğ¸™áúÿÿÿÿ8ŞâàáÊ.
+>
+java:S3878¸"Remove this array creation.(Æ¶µ úÿÿÿÿ8ŞâàáÊ.
+|
+java:S1192ë"^Define a constant instead of duplicating this literal "disableDeathOnFileUriExposure" 3 times.(„˜ş®8ŞâàáÊ.
+s	java:S117ç	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+n	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+K
+java:S1604×"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604Ö"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+s	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604 	"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604á	"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604Â"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+s	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+v	java:S131¿"YComplete cases by adding the missing enum constants or add a default case to this switch.(¿ğ—ª8ŞâàáÊ.
+9
+java:S3878å"Remove this array creation.(ÿ¸¼8ŞâàáÊ.
+O
+java:S2692à
+"10 is a valid index, but is ignored by this check.(Åæˆú8ŞâàáÊ.
+K
+java:S1604"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë±¨şÿÿÿÿ8ŞâàáÊ.
+]	java:S899×";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604û"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+]
+java:S1161Á":Add the "@Override" annotation above this method signature(İßéàúÿÿÿÿ8ŞâàáÊ.
+w
+java:S1104O"ZMake BufferInfoList a static final constant or non-public and provide accessors if needed.(Û©ÛÙ8·ƒ®ßÊ.
+]	java:S110J"<This class has 9 parents which is greater than 5 authorized.(ù–¿ìûÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604Õ"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+W
+java:S1161Ç":Add the "@Override" annotation above this method signature(ƒ¨Í8ŞâàáÊ.
+K
+java:S1604å"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+_
+java:S3878ë"ADisambiguate this call by either casting as "Class" or "Class[]".(„˜ş®8ŞâàáÊ.
+{
+java:S1192Õ"XDefine a constant instead of duplicating this literal "Enter Output File Name" 17 times.(• ³Øøÿÿÿÿ8ŞâàáÊ.
+l
+java:S4042È"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(í²£æ8ŞâàáÊ.
+X
+java:S1905†";Remove this unnecessary cast to "File_Related_Information".(ıß×[8ŞâàáÊ.
+O
+java:S2692¥"10 is a valid index, but is ignored by this check.(Åæˆú8ŞâàáÊ.
+9
+java:S3878ÿ"Remove this array creation.(„˜ş®8ŞâàáÊ.
+s	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°×’Œıÿÿÿÿ8ŞâàáÊ.
+h
+java:S1301¸"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV8ŞâàáÊ.
+d
+java:S1192¶"FDefine a constant instead of duplicating this literal "##.##" 4 times.(ªùÎ«8ŞâàáÊ.
+n	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+v
+java:S1104N"YMake selecteditems a static final constant or non-public and provide accessors if needed.(Ñ§ª8ŞâàáÊ.
+s	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+q
+java:S1104L"OMake fab a static final constant or non-public and provide accessors if needed.(¸ù¨Úúÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604‘	"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604ª"(Make this anonymous inner class a lambda(Ì†áûÿÿÿÿ8ŞâàáÊ.
+G
+java:S1481Î")Remove this unused "file" local variable.(‚™åÀ8ŞâàáÊ.
+s	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÑ°8ŞâàáÊ.
+T
+java:S2696†"6Make the enclosing method "static" or remove this set.(ïö£ƒ8ŞâàáÊ.
+W
+java:S1161t":Add the "@Override" annotation above this method signature(Ã“ˆ¦8ŞâàáÊ.
+n	java:S101J"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ù–¿ìûÿÿÿÿ8ŞâàáÊ.
+i
+java:S1301ú"KReplace this "switch" statement by "if" statements to increase readability.(¿ğ—ª8ŞâàáÊ.
+R
+java:S3740ø"/Provide the parametrized type for this generic.(Ù¬™äıÿÿÿÿ8ŞâàáÊ.
+s	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+K
+java:S1444L")Make this "public static fab" field final(¸ù¨Úúÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604ù"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+s	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+s	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‹‘Èùÿÿÿÿ8ŞâàáÊ.
+s	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+¤
+java:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–†Óüÿÿÿÿ8ŞâàáÊ.
+T
+java:S2696ò"6Make the enclosing method "static" or remove this set.(Ûœ¨™8©Ë¶ßÊ.
+n	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+u	java:S116\"TRename this field "file_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¦“»üÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604‚	"(Make this anonymous inner class a lambda(»ÅÀ‹øÿÿÿÿ8ŞâàáÊ.
+t
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Ìƒ®ûÿÿÿÿÿ8ŞâàáÊ.
+9
+java:S3626€"Remove this redundant jump.(ûÁİ…8ŞâàáÊ.
+K
+java:S1604¼"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+X	java:S899È";Do something with the "boolean" value returned by "delete".(í²£æ8ŞâàáÊ.
+K
+java:S1604
+"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+v	java:S131ú"YComplete cases by adding the missing enum constants or add a default case to this switch.(¿ğ—ª8ŞâàáÊ.
+K
+java:S1604í"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+T
+java:S1905†"1Remove this unnecessary cast to "RequestBuilder".(ã¨ßÆúÿÿÿÿ8ŞâàáÊ.
+Y
+java:S2696ı"6Make the enclosing method "static" or remove this set.(‡˜¨úÿÿÿÿ8ŞâàáÊ.
+u
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºªğ’ùÿÿÿÿ8ŞâàáÊ.
+Y
+java:S2696Â"6Make the enclosing method "static" or remove this set.(¦º³˜ıÿÿÿÿ8ŞâàáÊ.
+T
+java:S2696Ë"6Make the enclosing method "static" or remove this set.(Öè±µ8ŞâàáÊ.
+–
+java:S1319O"yThe type of the "BufferInfoList" object should be an interface such as "List" rather than the implementation "ArrayList".(Û©ÛÙ8ŞâàáÊ.
+K
+java:S1604‡"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+{	java:S116S"_Rename this field "adv_billingProcessor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø°•Õ8·ƒ®ßÊ.
+¤
+java:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–†Óüÿÿÿÿ8ŞâàáÊ.
+T
+java:S1905Ë"1Remove this unnecessary cast to "RequestBuilder".(ßç‡ûşÿÿÿÿ8ŞâàáÊ.
+u	java:S116O"YRename this field "BufferInfoList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û©ÛÙ8ŞâàáÊ.
+9
+java:S3878Ñ"Remove this array creation.(ÿ¸¼8ŞâàáÊ.
+E
+java:S1604ñ"(Make this anonymous inner class a lambda(Ò–J8ŞâàáÊ.
+j	java:S116T"URename this field "adv_editor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôš¡í
+K
+java:S1604´	"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+9
+java:S3878ë"Remove this array creation.(„˜ş®8ŞâàáÊ.
+8
+java:S3878Æ	"Remove this array creation.(Şü j8ŞâàáÊ.
+K
+java:S1604¢"(Make this anonymous inner class a lambda(³ Üòûÿÿÿÿ8ŞâàáÊ.
+~
+java:S1104^"\Make mCurFileInfoList a static final constant or non-public and provide accessors if needed.(Ì‹Ãƒúÿÿÿÿ8ŞâàáÊ.
+n	java:S117™
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+K
+java:S1604’"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+t	java:S116P"SRename this field "Compress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‚È©ûÿÿÿÿ8ŞâàáÊ.
+9
+java:S3878–"Remove this array creation.(ÿ¸¼8ŞâàáÊ.
+K
+java:S1604å"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604¿"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8ŞâàáÊ.
+T
+java:S2696ö"6Make the enclosing method "static" or remove this set.(Öè±µ8©Ë¶ßÊ.
+s	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+m	java:S116U"SRename this field "adv_pref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…®Ö³ùÿÿÿÿ
+]
+java:S1161Ä":Add the "@Override" annotation above this method signature(œƒƒ©ùÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604Ç"(Make this anonymous inner class a lambda(°Ø¨‰úÿÿÿÿ8ŞâàáÊ.
+u
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(úùóüÿÿÿÿ8ŞâàáÊ.
+F
+java:S1604µ"(Make this anonymous inner class a lambda(¿Ô¹ş8ŞâàáÊ.
+i
+java:S1301ß"KReplace this "switch" statement by "if" statements to increase readability.(¿ğ—ª8ŞâàáÊ.
+P
+java:S1444N"3Make this "public static selecteditems" field final(Ñ§ª8ŞâàáÊ.
+K
+java:S1604À"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+T
+java:S2696î"6Make the enclosing method "static" or remove this set.(š²¶²8ŞâàáÊ.
+K
+java:S1604¨"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+}
+java:S1192Ù"ZDefine a constant instead of duplicating this literal "Plaese Enter Output Name" 16 times.(‘›¦ÿûÿÿÿÿ8ŞâàáÊ.
+x
+java:S1104`"\Make mFileItemAdapter a static final constant or non-public and provide accessors if needed.(ûì¿^8ŞâàáÊ.
+T
+java:S2696Æ"6Make the enclosing method "static" or remove this set.(ïö£ƒ8ŞâàáÊ.
+F	java:S108­")Either remove or fill this block of code.(ãµ¡³8ŞâàáÊ.
+R
+java:S3740Ë"/Provide the parametrized type for this generic.(Ù¬™äıÿÿÿÿ8ŞâàáÊ.
+n	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼Û°8ŞâàáÊ.
+d
+java:S1192·"FDefine a constant instead of duplicating this literal ".gzip" 4 times.(Úıí8ŞâàáÊ.
+q
+java:S4042×"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ŞâàáÊ.
+s	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604¤
+"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+8
+java:S3878÷"Remove this array creation.(Şü j8ŞâàáÊ.
+F
+java:S1604£"(Make this anonymous inner class a lambda(àÈ¢Ë8ŞâàáÊ.
+x	java:S116V"WRename this field "adv_purchase" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ã‡êøÿÿÿÿ8ŞâàáÊ.
+s	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+F
+java:S1604ö"(Make this anonymous inner class a lambda(††ŒÙ8ŞâàáÊ.
+O
+java:S2692é"10 is a valid index, but is ignored by this check.(Åæˆú8ŞâàáÊ.
+F
+java:S1604˜"(Make this anonymous inner class a lambda(„¬İ™8ŞâàáÊ.
+•
+java:S1319N"xThe type of the "selecteditems" object should be an interface such as "List" rather than the implementation "ArrayList".(Ñ§ª8ŞâàáÊ.
+F
+java:S1604ğ"(Make this anonymous inner class a lambda(¿Ô¹ş8ŞâàáÊ.
+f
+java:S1192ä"HDefine a constant instead of duplicating this literal ".tar.gz" 4 times.(ğĞœø8ŞâàáÊ.
+T
+java:S1905†"1Remove this unnecessary cast to "RequestBuilder".(ã¨ßÆúÿÿÿÿ8ŞâàáÊ.
+[
+java:S3878¼"8Remove this array creation and simply pass the elements.(ùü¶ùşÿÿÿÿ8ŞâàáÊ.
+>
+java:S3878¤"Remove this array creation.(Æ¶µ úÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604÷	"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8ŞâàáÊ.
+i
+java:S1301¿"KReplace this "switch" statement by "if" statements to increase readability.(¿ğ—ª8ŞâàáÊ.
+s	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸‡ïûÿÿÿÿ8ŞâàáÊ.
+u
+java:S1104K"SMake counter a static final constant or non-public and provide accessors if needed.(Æ—ûÿÿÿÿÿ8ŞâàáÊ.
+K
+java:S1604á"(Make this anonymous inner class a lambda(Š¡„›ÿÿÿÿÿ8ŞâàáÊ.
+¤
+java:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùœ­¤şÿÿÿÿ8ŞâàáÊ.
+v	java:S131š"YComplete cases by adding the missing enum constants or add a default case to this switch.(¿ğ—ª8ŞâàáÊ.

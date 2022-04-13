@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_5sdp"
+    app:cardCornerRadius="@dimen/_2sdp"
+    app:cardElevation="@dimen/_3sdp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff2a2661"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/left_side"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_70sdp"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="@dimen/_5sdp">
+
+            <ImageView
+                android:id="@+id/file_item_icon"
+                android:layout_width="@dimen/_90sdp"
+                android:layout_height="@dimen/_70sdp"
+                android:adjustViewBounds="true" />
+
+            <ImageView
+                android:id="@+id/play"
+                android:layout_width="@dimen/_45sdp"
+                android:layout_height="@dimen/_45sdp"
+                android:layout_centerInParent="true"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/left_side"
+            android:padding="2dp">
+
+            <TextView
+                android:id="@+id/file_item_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="@dimen/_5sdp"
+                android:ellipsize="end"
+
+                android:gravity="center_horizontal"
+                android:lines="2"
+                android:textColor="#fff7f4f4"
+                android:textSize="@dimen/_12sdp" />
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/file_item_name"
+                android:layout_margin="3dp"
+
+                android:textColor="#fff7f4f4"
+                android:textSize="@dimen/_10sdp" />
+
+            <TextView
+                android:id="@+id/file_sub_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/file_item_name"
+                android:layout_alignParentRight="true"
+                android:layout_margin="3dp"
+
+                android:paddingRight="@dimen/_5sdp"
+                android:textColor="#fff7f4f4"
+                android:textSize="@dimen/_10sdp" />
+        </RelativeLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

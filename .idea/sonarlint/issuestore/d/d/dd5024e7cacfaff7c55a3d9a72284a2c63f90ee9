@@ -1,0 +1,8 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü›­¯
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œ‚ĞŸ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(œ‚ĞŸ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı”úÿÿÿÿ
+†
+java:S1319<"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(öÍßí

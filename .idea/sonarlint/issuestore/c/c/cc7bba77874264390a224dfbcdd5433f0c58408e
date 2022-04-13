@@ -1,0 +1,356 @@
+
+h
+java:S1192½"JDefine a constant instead of duplicating this literal ".provider" 3 times.(‚Üêş8Õ¼”‚Ë.
+p
+java:S1871Ç"MThis branch's code block is the same as the block for the branch on line 571.(ïó¡—ıÿÿÿÿ8Õ¼”‚Ë.
+s	java:S117‚	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°×’Œıÿÿÿÿ8Õ¼”‚Ë.
+e
+java:S1192õ"GDefine a constant instead of duplicating this literal "alldoc" 3 times.(¯–ÒÍ8Õ¼”‚Ë.
+g
+java:S1192ù"IDefine a constant instead of duplicating this literal "compress" 4 times.(ø‡õ€8Õ¼”‚Ë.
+u
+java:S3776â	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ºªğ’ùÿÿÿÿ8Õ¼”‚Ë.
+F
+java:S1604€"(Make this anonymous inner class a lambda(ÏÑà8Õ¼”‚Ë.
+k
+java:S1871½"MThis branch's code block is the same as the block for the branch on line 571.(ùîó8Õ¼”‚Ë.
+p
+java:S1871ë"MThis branch's code block is the same as the block for the branch on line 485.(üÚ–ˆüÿÿÿÿ8Õ¼”‚Ë.
+X
+java:S1161–":Add the "@Override" annotation above this method signature(Ã“ˆ¦8á½ûáÊ.
+•
+java:S1319e"xThe type of the "selecteditems" object should be an interface such as "List" rather than the implementation "ArrayList".(Ñ§ª8Š¦úáÊ.
+[
+java:S3878"8Remove this array creation and simply pass the elements.(”×ËÅúÿÿÿÿ8Õ¼”‚Ë.
+k
+java:S1871É"MThis branch's code block is the same as the block for the branch on line 571.(ÏŒÔ‚8Õ¼”‚Ë.
+L
+java:S1444b"*Make this "public static fab2" field final(úœÆçşÿÿÿÿ8éñùáÊ.
+K
+java:S1604"(Make this anonymous inner class a lambda(‚ÂÃøüÿÿÿÿ8Õ¼”‚Ë.
+q	java:S116n"URename this field "adv_editor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôš¡í8á½ûáÊ.
+u	java:S116w"TRename this field "file_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¦“»üÿÿÿÿ8éñùáÊ.
+T
+java:S2696ÿ"6Make the enclosing method "static" or remove this set.(©İ‰å8Õ¼”‚Ë.
+Y
+java:S2696¸"6Make the enclosing method "static" or remove this set.(§ãì”ıÿÿÿÿ8…ªßË.
+s	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ƒ˜şûÿÿÿÿ8Õ¼”‚Ë.
+F
+java:S1604"(Make this anonymous inner class a lambda(ÀËÎ¯8Õ¼”‚Ë.
+W
+java:S1161ß
+":Add the "@Override" annotation above this method signature(ƒ¨Í8Õ¼”‚Ë.
+j
+java:S1871ı"MThis branch's code block is the same as the block for the branch on line 497.(ÄÛıa8Õ¼”‚Ë.
+k
+java:S1871÷"MThis branch's code block is the same as the block for the branch on line 497.(‚‹8Õ¼”‚Ë.
+q
+java:S1192„"NDefine a constant instead of duplicating this literal "adspreferance" 3 times.(òîàıÿÿÿÿ8Õ¼”‚Ë.
+u
+java:S1104_"SMake counter a static final constant or non-public and provide accessors if needed.(Æ—ûÿÿÿÿÿ8Š¦úáÊ.
+p	java:S100ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë±¨şÿÿÿÿ8Õ¼”‚Ë.
+|	java:S116h"[Rename this field "Edited_File_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÁÇ‚úÿÿÿÿ8éñùáÊ.
+ƒ	java:S116k"gRename this field "Path_Name_Remove_gz_From_End" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õçúé8•â É.
+k
+java:S1871¯"MThis branch's code block is the same as the block for the branch on line 543.(É´ó8Õ¼”‚Ë.
+]
+java:S1161è":Add the "@Override" annotation above this method signature(úùóüÿÿÿÿ8…ªßË.
+>	java:S131¾
+""Add a default case to this switch.(ìúÇV8Õ¼”‚Ë.
+p
+java:S1871…"MThis branch's code block is the same as the block for the branch on line 497.(ÃÄ‰‡ıÿÿÿÿ8Õ¼”‚Ë.
+L
+java:S3740³"/Provide the parametrized type for this generic.(¨»Èa8„ªßË.
+T
+java:S2696Ü"6Make the enclosing method "static" or remove this set.(Öè±µ8Õ¼”‚Ë.
+m
+java:S1104f"PMake type a static final constant or non-public and provide accessors if needed.(ÅÉÀÚ8•â É.
+s	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÕÁ úÿÿÿÿ8Õ¼”‚Ë.
+p
+java:S1871§"MThis branch's code block is the same as the block for the branch on line 543.(–êÈÿÿÿÿÿ8Õ¼”‚Ë.
+p
+java:S1871£"MThis branch's code block is the same as the block for the branch on line 543.(ò–şÿÿÿÿ8Õ¼”‚Ë.
+K
+java:S1604‹"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8Õ¼”‚Ë.
+v	java:S116y"[Rename this field "fl_adplaceholder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õŒïm8á½ûáÊ.
+K
+java:S1604‡"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8Õ¼”‚Ë.
+F
+java:S1604±"(Make this anonymous inner class a lambda(¨ÈØÇ8Õ¼”‚Ë.
+K
+java:S1604¡"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8Õ¼”‚Ë.
+[
+java:S3878§"8Remove this array creation and simply pass the elements.(™’º¦üÿÿÿÿ8Õ¼”‚Ë.
+u
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ìƒ®ûÿÿÿÿÿ8á½ûáÊ.
+
+java:S1130«"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ìƒ®ûÿÿÿÿÿ8á½ûáÊ.
+X
+java:S1118©":Add a private constructor to hide the implicit public one.(º©«á8á½ûáÊ.
+9
+java:S3626¸"Remove this redundant jump.(ûÁİ…8Õ¼”‚Ë.
+K
+java:S1604á"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8Õ¼”‚Ë.
+s	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÅËˆúÿÿÿÿ8Õ¼”‚Ë.
+
+java:S1192Ã"\Define a constant instead of duplicating this literal "android.intent.extra.STREAM" 5 times.(––Ïûÿÿÿÿ8Õ¼”‚Ë.
+G
+java:S1444f"*Make this "public static type" field final(ÅÉÀÚ8•â É.
+F
+java:S1604ƒ	"(Make this anonymous inner class a lambda(Âú„Ã8Õ¼”‚Ë.
+p
+java:S1871ù"MThis branch's code block is the same as the block for the branch on line 497.(¢¼Ğ¨øÿÿÿÿ8Õ¼”‚Ë.
+F	java:S108Ÿ")Either remove or fill this block of code.(ãµ¡³8Õ¼”‚Ë.
+[
+java:S3878	"8Remove this array creation and simply pass the elements.(”×ËÅúÿÿÿÿ8Õ¼”‚Ë.
+q
+java:S4042±	"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8Õ¼”‚Ë.
+¤
+java:S1186¢	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘»‚Èúÿÿÿÿ8Õ¼”‚Ë.
+u	java:S116v"YRename this field "extention_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö³¬8á½ûáÊ.
+k
+java:S1871í"MThis branch's code block is the same as the block for the branch on line 485.(”Ì¾8Õ¼”‚Ë.
+k
+java:S1871©"MThis branch's code block is the same as the block for the branch on line 543.(ãéÃ8Õ¼”‚Ë.
+p
+java:S1871›"MThis branch's code block is the same as the block for the branch on line 527.(—æÇ¤øÿÿÿÿ8Õ¼”‚Ë.
+v
+java:S3776œ"SRefactor this method to reduce its Cognitive Complexity from 151 to the 15 allowed.(Ğ¸™áúÿÿÿÿ8Õ¼”‚Ë.
+E
+java:S1604±"(Make this anonymous inner class a lambda(°²ÇH8Õ¼”‚Ë.
+T
+java:S2696Á"6Make the enclosing method "static" or remove this set.(Öè±µ8Õ¼”‚Ë.
+N
+java:S1444d"3Make this "public static longclickonce" field final(ü¿šúÿÿÿÿ
+h
+java:S1301
+"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV8Õ¼”‚Ë.
+F
+java:S1604—	"(Make this anonymous inner class a lambda(Âú„Ã8Õ¼”‚Ë.
+K
+java:S1604Î"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8Õ¼”‚Ë.
+k
+java:S1871Å"MThis branch's code block is the same as the block for the branch on line 571.(‹¶É8Õ¼”‚Ë.
+k
+java:S1871¡"MThis branch's code block is the same as the block for the branch on line 543.(±æÕõ8Õ¼”‚Ë.
+x	java:S116p"WRename this field "adv_purchase" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ã‡êøÿÿÿÿ8•â É.
+L
+java:S3740³"/Provide the parametrized type for this generic.(¨»Èa8Õ¼”‚Ë.
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü»‚øÿÿÿÿ8Õ¼”‚Ë.
+K
+java:S1604÷"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8Õ¼”‚Ë.
+Y
+java:S2696°"6Make the enclosing method "static" or remove this set.(¡ÏÑğüÿÿÿÿ8Õ¼”‚Ë.
+K
+java:S1604Î"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8Õ¼”‚Ë.
+T
+java:S2692õ"10 is a valid index, but is ignored by this check.(¨…¹ñıÿÿÿÿ8Õ¼”‚Ë.
+T
+java:S2696½"6Make the enclosing method "static" or remove this set.(Ûœ¨™8Õ¼”‚Ë.
+K
+java:S1604Ä"(Make this anonymous inner class a lambda(ÿØù’ùÿÿÿÿ8Õ¼”‚Ë.
+o
+java:S1104e"YMake selecteditems a static final constant or non-public and provide accessors if needed.(Ñ§ª
+k
+java:S1871™"MThis branch's code block is the same as the block for the branch on line 527.(»„û8Õ¼”‚Ë.
+p
+java:S1871ÿ"MThis branch's code block is the same as the block for the branch on line 497.(Šƒ €ùÿÿÿÿ8Õ¼”‚Ë.
+T
+java:S2696ï	"6Make the enclosing method "static" or remove this set.(€é±«8Õ¼”‚Ë.
+s	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ƒ˜şûÿÿÿÿ8Õ¼”‚Ë.
+t	java:S116g"SRename this field "Compress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‚È©ûÿÿÿÿ8Š¦úáÊ.
+T
+java:S2696‘"6Make the enclosing method "static" or remove this set.(€é±«8Õ¼”‚Ë.
+F
+java:S1604¦
+"(Make this anonymous inner class a lambda(Ï¾¹ï8Õ¼”‚Ë.
+k
+java:S1871û"MThis branch's code block is the same as the block for the branch on line 497.(ëô–á8Õ¼”‚Ë.
+s	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÅËˆúÿÿÿÿ8Õ¼”‚Ë.
+	java:S116†"_Rename this field "toper1_hight_measure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ›¸Œûÿÿÿÿ8á½ûáÊ.
+T
+java:S2696¹"6Make the enclosing method "static" or remove this set.(š²¶²8Õ¼”‚Ë.
+r
+java:S1192ç"ODefine a constant instead of duplicating this literal "adv_preferance" 3 times.(®¸ªÔøÿÿÿÿ8Õ¼”‚Ë.
+j
+java:S1871¿"MThis branch's code block is the same as the block for the branch on line 571.(Ê×İ8Õ¼”‚Ë.
+s	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¶¶İúÿÿÿÿ8Õ¼”‚Ë.
+k
+java:S1871"MThis branch's code block is the same as the block for the branch on line 497.(ÍÿŸ¥8Õ¼”‚Ë.
+]
+java:S1161Õ":Add the "@Override" annotation above this method signature(œƒƒ©ùÿÿÿÿ8Õ¼”‚Ë.
+j
+java:S1871ó"MThis branch's code block is the same as the block for the branch on line 497.(¾şÑ8Õ¼”‚Ë.
+Y
+java:S2696¯"6Make the enclosing method "static" or remove this set.(¦º³˜ıÿÿÿÿ8…ªßË.
+K
+java:S1604Ú"(Make this anonymous inner class a lambda(üÆÀ²ÿÿÿÿÿ8Õ¼”‚Ë.
+u
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(úùóüÿÿÿÿ8…ªßË.
+k
+java:S1871«"MThis branch's code block is the same as the block for the branch on line 543.(˜ü´÷8Õ¼”‚Ë.
+p
+java:S1871é"MThis branch's code block is the same as the block for the branch on line 485.(¯ùßıÿÿÿÿ8Õ¼”‚Ë.
+T
+java:S2696§"6Make the enclosing method "static" or remove this set.(š²¶²8Õ¼”‚Ë.
+T
+java:S2696ô	"6Make the enclosing method "static" or remove this set.(¾—¬Ã8Õ¼”‚Ë.
+m
+java:S1104c"PMake fab3 a static final constant or non-public and provide accessors if needed.(”È´Â8éñùáÊ.
+k
+java:S1871¥"MThis branch's code block is the same as the block for the branch on line 543.(½”Îˆ8Õ¼”‚Ë.
+p
+java:S1871Á"MThis branch's code block is the same as the block for the branch on line 571.(ÖÔ›¸ÿÿÿÿÿ8Õ¼”‚Ë.
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Î†»üÿÿÿÿ8Õ¼”‚Ë.
+R
+java:S3740´"/Provide the parametrized type for this generic.(²¦ƒáúÿÿÿÿ8Õ¼”‚Ë.
+>	java:S131
+""Add a default case to this switch.(ìúÇV8Õ¼”‚Ë.
+O
+java:S2692Ğ"10 is a valid index, but is ignored by this check.(Åæˆú8Õ¼”‚Ë.
+T
+java:S2696«"6Make the enclosing method "static" or remove this set.(Ûœ¨™8Õ¼”‚Ë.
+s	java:S116s"WRename this field "check_tar_gz" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‹›É8á½ûáÊ.
+I
+java:S1444e"3Make this "public static selecteditems" field final(Ñ§ª
+s	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÅËˆúÿÿÿÿ8Õ¼”‚Ë.
+s	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÅËˆúÿÿÿÿ8Õ¼”‚Ë.
+|	java:S116j"[Rename this field "Output_path_save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÒÌ¡ıÿÿÿÿ8éñùáÊ.
+q
+java:S1104`"OMake fab a static final constant or non-public and provide accessors if needed.(¸ù¨Úúÿÿÿÿ8éñùáÊ.
+W
+java:S1161":Add the "@Override" annotation above this method signature(Á…‘8á½ûáÊ.
+Y
+java:S2696ó"6Make the enclosing method "static" or remove this set.(ïî£úÿÿÿÿ8…ªßË.
+K
+java:S1604¸"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8Õ¼”‚Ë.
+9
+java:S3878©"Remove this array creation.(„˜ş®8Õ¼”‚Ë.
+p
+java:S1871‡"MThis branch's code block is the same as the block for the branch on line 497.(’›‘øÿÿÿÿ8Õ¼”‚Ë.
+p
+java:S1871·"MThis branch's code block is the same as the block for the branch on line 543.(ÓÏ‚¬ıÿÿÿÿ8Õ¼”‚Ë.
+m	java:S116o"SRename this field "adv_pref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…®Ö³ùÿÿÿÿ
+]	java:S899±	";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8Õ¼”‚Ë.
+K
+java:S1604î"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8Õ¼”‚Ë.
+s	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÅËˆúÿÿÿÿ8Õ¼”‚Ë.
+s	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ƒ˜şûÿÿÿÿ8Õ¼”‚Ë.
+p
+java:S1871õ"MThis branch's code block is the same as the block for the branch on line 497.(š¿ÖŸıÿÿÿÿ8Õ¼”‚Ë.
+Y
+java:S2696¦"6Make the enclosing method "static" or remove this set.(§ãì”ıÿÿÿÿ8…ªßË.
+k
+java:S1871‘"MThis branch's code block is the same as the block for the branch on line 527.(İ¹¦º8Õ¼”‚Ë.
+Y
+java:S2696Ç"6Make the enclosing method "static" or remove this set.(ª¼’¼úÿÿÿÿ8Õ¼”‚Ë.
+z
+java:S1192à"WDefine a constant instead of duplicating this literal "Enter Output File Name" 6 times.(• ³Øøÿÿÿÿ8Õ¼”‚Ë.
+p
+java:S1871³"MThis branch's code block is the same as the block for the branch on line 543.(°éÀ€ıÿÿÿÿ8Õ¼”‚Ë.
+X	java:S110W"<This class has 9 parents which is greater than 5 authorized.(Âò¤£8Š¦úáÊ.
+w
+java:S1192è"YDefine a constant instead of duplicating this literal "Plaese Enter Output Name" 6 times.(ğá ›8Õ¼”‚Ë.
+P
+java:S1128T"3Remove this unused import 'android.view.View.GONE'.(íîÀ½8®´ãË.
+K
+java:S1604€
+"(Make this anonymous inner class a lambda( ËîÈûÿÿÿÿ8Õ¼”‚Ë.
+h
+java:S1301¾
+"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV8Õ¼”‚Ë.
+i
+java:S1192§"FDefine a constant instead of duplicating this literal "gride" 4 times.(Úÿ´€ûÿÿÿÿ8Õ¼”‚Ë.
+o	java:S116i"TRename this field "Extracted" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÂèn8éñùáÊ.
+F
+java:S1604¥"(Make this anonymous inner class a lambda(îšŠÿ8Õ¼”‚Ë.
+G
+java:S1444c"*Make this "public static fab3" field final(”È´Â8éñùáÊ.
+K
+java:S1604§"(Make this anonymous inner class a lambda(­Ÿôëşÿÿÿÿ8Õ¼”‚Ë.
+F	java:S108é")Either remove or fill this block of code.(ãµ¡³8Õ¼”‚Ë.
+L
+java:S1444a"*Make this "public static fab1" field final(ÚÚ•Çşÿÿÿÿ8éñùáÊ.
+k
+java:S1871ƒ"MThis branch's code block is the same as the block for the branch on line 497.(ÔŞã¹8Õ¼”‚Ë.
+¤
+java:S1186Å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸™áúÿÿÿÿ8Õ¼”‚Ë.
+r
+java:S1104a"PMake fab1 a static final constant or non-public and provide accessors if needed.(ÚÚ•Çşÿÿÿÿ8éñùáÊ.
+T
+java:S2696–"6Make the enclosing method "static" or remove this set.(¾—¬Ã8Õ¼”‚Ë.
+p
+java:S1871—"MThis branch's code block is the same as the block for the branch on line 527.(îØ¥•şÿÿÿÿ8Õ¼”‚Ë.
+K
+java:S1604¿"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8Õ¼”‚Ë.
+K
+java:S1604ñ"(Make this anonymous inner class a lambda(­Ÿôëşÿÿÿÿ8Õ¼”‚Ë.
+p
+java:S1871ç"MThis branch's code block is the same as the block for the branch on line 485.(ŒÑ˜ğûÿÿÿÿ8Õ¼”‚Ë.
+i	java:S101W"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Âò¤£8Š¦úáÊ.
+K
+java:S1444`")Make this "public static fab" field final(¸ù¨Úúÿÿÿÿ8éñùáÊ.
+K
+java:S1481Ú"(Remove this unused "str" local variable.(ûÍÇÉøÿÿÿÿ8Õ¼”‚Ë.
+T
+java:S2696¯"6Make the enclosing method "static" or remove this set.(Öè±µ8Õ¼”‚Ë.
+T
+java:S2696×"6Make the enclosing method "static" or remove this set.(ïö£ƒ8Õ¼”‚Ë.
+_
+java:S3878©"ADisambiguate this call by either casting as "Class" or "Class[]".(„˜ş®8Õ¼”‚Ë.
+T
+java:S2696õ"6Make the enclosing method "static" or remove this set.(¯–ÒÍ8Õ¼”‚Ë.
+L
+java:S1481¨	".Remove this unused "listFiles" local variable.(Ë¸Ô8Õ¼”‚Ë.
+R
+java:S3740Ñ"/Provide the parametrized type for this generic.(²¦ƒáúÿÿÿÿ8Õ¼”‚Ë.
+“
+java:S1319Û"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¦ë¬ûıÿÿÿÿ8Õ¼”‚Ë.
+K
+java:S1604å"(Make this anonymous inner class a lambda(›ãßÖøÿÿÿÿ8Õ¼”‚Ë.
+K
+java:S1604÷"(Make this anonymous inner class a lambda(Û‚®íşÿÿÿÿ8Õ¼”‚Ë.
+F
+java:S1604¡	"(Make this anonymous inner class a lambda(Ï¶ª—8Õ¼”‚Ë.
+n	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´òúÈ8Õ¼”‚Ë.
+r
+java:S1104b"PMake fab2 a static final constant or non-public and provide accessors if needed.(úœÆçşÿÿÿÿ8éñùáÊ.
+K
+java:S1604°
+"(Make this anonymous inner class a lambda( ËîÈûÿÿÿÿ8Õ¼”‚Ë.
+p
+java:S1871Ã"MThis branch's code block is the same as the block for the branch on line 571.(ºïóÖıÿÿÿÿ8Õ¼”‚Ë.
+u
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 97 to the 15 allowed.(¦ë¬ûıÿÿÿÿ8Õ¼”‚Ë.
+k
+java:S1871µ"MThis branch's code block is the same as the block for the branch on line 543.(î¬ÑË8Õ¼”‚Ë.
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÅËˆúÿÿÿÿ8Õ¼”‚Ë.
+¤
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–†Óüÿÿÿÿ8Õ¼”‚Ë.
+n	java:S117µ	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬•8Õ¼”‚Ë.
+k
+java:S1871•"MThis branch's code block is the same as the block for the branch on line 527.(ˆ»¤Ú8Õ¼”‚Ë.
+¤
+java:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë±¨şÿÿÿÿ8Õ¼”‚Ë.
+p
+java:S1871±"MThis branch's code block is the same as the block for the branch on line 543.(ªÆÒÅøÿÿÿÿ8Õ¼”‚Ë.
+R
+java:S3740‰"/Provide the parametrized type for this generic.(²¦ƒáúÿÿÿÿ8Õ¼”‚Ë.
+k
+java:S1871­"MThis branch's code block is the same as the block for the branch on line 543.(ëüŞª8Õ¼”‚Ë.
+p
+java:S1871“"MThis branch's code block is the same as the block for the branch on line 527.(¹‰çÁûÿÿÿÿ8Õ¼”‚Ë.
+w
+java:S1450ƒ"YRemove the "searchView" field and declare it as a local variable in the relevant methods.(‰Ôô¦8á½ûáÊ.
+O
+java:S2692ñ"10 is a valid index, but is ignored by this check.(Åæˆú8Õ¼”‚Ë.
+O
+java:S1444_"-Make this "public static counter" field final(Æ—ûÿÿÿÿÿ8Š¦úáÊ.
+]
+java:S1161Ú
+":Add the "@Override" annotation above this method signature(İßéàúÿÿÿÿ8Õ¼”‚Ë.
+t
+java:S1104d"YMake longclickonce a static final constant or non-public and provide accessors if needed.(ü¿šúÿÿÿÿ
+s	java:S117–	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‹‘Èùÿÿÿÿ8Õ¼”‚Ë.
+F
+java:S1604	"(Make this anonymous inner class a lambda(Ï¶ª—8Õ¼”‚Ë.

@@ -1,0 +1,12 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°Áğùşÿÿÿÿ
+0
+java:S2275"Not enough arguments.(éìÄôúÿÿÿÿ
+0
+java:S2275	"Not enough arguments.(¥±îŒıÿÿÿÿ
+S
+java:S3878"8Remove this array creation and simply pass the elements.(éìÄôúÿÿÿÿ
+S
+java:S3878	"8Remove this array creation and simply pass the elements.(¥±îŒıÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(°Áğùşÿÿÿÿ

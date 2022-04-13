@@ -1,0 +1,40 @@
+
+o	java:S116"ZRename this field "ALL_PERMISSIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ó†¶
+o	java:S100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë±¨şÿÿÿÿ8Ş®Ÿ‚Ë.
+p
+java:S1192`"NDefine a constant instead of duplicating this literal "show_ad_image" 3 times.(˜éåûÿÿÿÿ8Ş®Ÿ‚Ë.
+?	java:S131…""Add a default case to this switch.(ºÖ8Ş®Ÿ‚Ë.
+y	java:S116#"_Rename this field "advance_native_show1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÊÙ×úÿÿÿÿ
+j
+java:S1192Š"GDefine a constant instead of duplicating this literal "option" 6 times.(¦¦ª¬øÿÿÿÿ8Ş®Ÿ‚Ë.
+£
+java:S1186z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë±¨şÿÿÿÿ8Ş®Ÿ‚Ë.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒÌŠª
+L
+java:S1068?"*Remove this unused "adView" private field.(Í©Ñ±øÿÿÿÿ8Ş®Ÿ‚Ë.
+e
+java:S1192ˆ"GDefine a constant instead of duplicating this literal "idName" 8 times.(»”ïî8Ş®Ÿ‚Ë.
+c
+java:S1128"ARemove this unused import 'com.google.android.gms.ads.MobileAds'.(ƒª¿úÿÿÿÿ8Ş®Ÿ‚Ë.
+q	java:S116@"URename this field "show_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úº°á8Ø™Ÿ‚Ë.
+
+java:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…ÖÀ8Ş®Ÿ‚Ë.
+^
+java:S1128"ARemove this unused import 'com.google.android.gms.ads.AdRequest'.(ƒâÚì8Ş®Ÿ‚Ë.
+i	java:S116&"TRename this field "head_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š€Î”
+Ÿ
+java:S1186Õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õñ”á8Ş®Ÿ‚Ë.
+£
+java:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âÎŸ˜øÿÿÿÿ8Ø™Ÿ‚Ë.
+i	java:S100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÖÀ8Ş®Ÿ‚Ë.
+q	java:S116$"\Rename this field "back_press_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼áêÎ
+D
+java:S1604g"(Make this anonymous inner class a lambda(—½Ç_8Ş®Ÿ‚Ë.
+€
+java:S1192"jDefine a constant instead of duplicating this literal "android.permission.WRITE_EXTERNAL_STORAGE" 3 times.(“Ó†¶
+K
+java:S1185È"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ8·ˆˆ£Ë.
+F
+java:S1185Í"(Remove this method to simply inherit it.(öÿÕÅ8·ˆˆ£Ë.
+E
+java:S1185Ğ"(Remove this method to simply inherit it.(ƒ¨Í8·ˆˆ£Ë.

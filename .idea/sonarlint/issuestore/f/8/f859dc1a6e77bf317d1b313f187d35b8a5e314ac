@@ -1,0 +1,33 @@
+
+Y
+java:S2696˜"6Make the enclosing method "static" or remove this set.(Üë¬Åûÿÿÿÿ8Ô÷óáÊ.
+L
+java:S3740Ç"/Provide the parametrized type for this generic.(¨»Èa8Ô÷óáÊ.
+N
+java:S1481Å"+Remove this unused "unused" local variable.(•üò‚úÿÿÿÿ8Ô÷óáÊ.
+u	java:S131k"YComplete cases by adding the missing enum constants or add a default case to this switch.(¿ğ—ª8Ô÷óáÊ.
+E
+java:S1604ƒ"(Make this anonymous inner class a lambda(‰÷‚P8Ô÷óáÊ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß×ë¤ûÿÿÿÿ
+z
+java:S1104"XMake documentList a static final constant or non-public and provide accessors if needed.(ÃÍ§Øøÿÿÿÿ8äô‰ÛÊ.
+o
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(­Û©™8Ô÷óáÊ.
+m	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»„á­8Ô÷óáÊ.
+R
+java:S3740Å"/Provide the parametrized type for this generic.(•üò‚úÿÿÿÿ8Ô÷óáÊ.
+}
+java:S1104"`Make documentListFiltered a static final constant or non-public and provide accessors if needed.(…’Œ8Ô÷óáÊ.
+L
+java:S3740Ç"/Provide the parametrized type for this generic.(¨»Èa8Ô÷óáÊ.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷œıÿÿÿÿ
+r
+java:S1104!"UMake mActivity a static final constant or non-public and provide accessors if needed.(»á›ß8Ô÷óáÊ.
+S
+java:S2696‘"6Make the enclosing method "static" or remove this set.(ˆô¤q8Ô÷óáÊ.
+U
+java:S3878w"8Remove this array creation and simply pass the elements.(³™Îˆ8Ô÷óáÊ.
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(¨÷Àúÿÿÿÿ8Ô÷óáÊ.
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(ŞÙù‡ùÿÿÿÿ8İÿ”É.

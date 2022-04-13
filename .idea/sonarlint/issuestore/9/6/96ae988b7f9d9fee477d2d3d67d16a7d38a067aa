@@ -1,0 +1,39 @@
+
+L
+java:S3740Ê"/Provide the parametrized type for this generic.(¨»Èa8×ŠŒÛÊ.
+u
+java:S11927"SUse already-defined constant 'MY_PREFS_NAME' instead of duplicating its value here.(¢»Šàøÿÿÿÿ8×ŠŒÛÊ.
+T
+java:S1172)"7Remove this unused method parameter "onClickListener2".(¤àÀ¾8×ŠŒÛÊ.
+`
+java:S1128">Remove this unused import 'com.bumptech.glide.RequestBuilder'.(¼¨˜Ìÿÿÿÿÿ8ç‰É.
+o
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(²õâÚ8×ŠŒÛÊ.
+M
+java:S3740È"/Provide the parametrized type for this generic.(‰‡†Û8×ŠŒÛÊ.
+s
+java:S1104!"XMake documentList a static final constant or non-public and provide accessors if needed.(ÃÍ§Øøÿÿÿÿ
+Y
+java:S2696“"6Make the enclosing method "static" or remove this set.(Ñ¹Ğûÿÿÿÿ8×ŠŒÛÊ.
+Y
+java:S2696”"6Make the enclosing method "static" or remove this set.(‚ßäüÿÿÿÿ8É«‹ÛÊ.
+u	java:S131k"YComplete cases by adding the missing enum constants or add a default case to this switch.(¿ğ—ª8×ŠŒÛÊ.
+L
+java:S3740Ê"/Provide the parametrized type for this generic.(¨»Èa8×ŠŒÛÊ.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğ’åâ
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(öË×âøÿÿÿÿ8×ŠŒÛÊ.
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»„á­8×ŠŒÛÊ.
+Z
+java:S3878z"8Remove this array creation and simply pass the elements.(¼é”ıÿÿÿÿ8×ŠŒÛÊ.
+{
+java:S1104#"`Make documentListFiltered a static final constant or non-public and provide accessors if needed.(úÃ†ÿÿÿÿÿ
+r
+java:S1104%"UMake mActivity a static final constant or non-public and provide accessors if needed.(»á›ß8×ŠŒÛÊ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß×ë¤ûÿÿÿÿ
+J
+java:S3740#"/Provide the parametrized type for this generic.(úÃ†ÿÿÿÿÿ
+T
+java:S2696—"6Make the enclosing method "static" or remove this set.(¹ç—Õ8×ŠŒÛÊ.
+I
+java:S1481È"+Remove this unused "unused" local variable.(‰‡†Û8×ŠŒÛÊ.

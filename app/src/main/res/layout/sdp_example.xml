@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/give_us_a_review_landmine_main_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/_43sdp"
+            android:paddingTop="@dimen/_50sdp"
+            android:paddingRight="@dimen/_43sdp"
+            android:paddingBottom="@dimen/_27sdp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Intuit"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_40sdp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_minus10sdp"
+                android:orientation="horizontal"
+                android:paddingBottom="@dimen/_15sdp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:includeFontPadding="false"
+                    android:text="♡"
+                    android:textColor="#ffed6c27"
+                    android:textSize="@dimen/_70sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:includeFontPadding="false"
+                    android:text="U"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/_70sdp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/give_us_a_review_landmine_text_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="@dimen/_12sdp"
+                android:text="Rate us so we can grow and help more people get their finances in check"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_16sdp" />
+
+            <TextView
+                android:id="@+id/give_us_a_review_landmine_text_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="★★★★★"
+                android:textColor="#ff747474"
+                android:textSize="@dimen/_22sdp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/give_us_a_review_landmine_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_25sdp"
+                android:background="#ff0ac775"
+                android:gravity="center"
+                android:includeFontPadding="false"
+                android:minWidth="120dp"
+                android:padding="@dimen/_8sdp"
+                android:singleLine="true"
+                android:text="Rate"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/_15sdp"
+                android:visibility="visible" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
